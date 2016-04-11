@@ -1,12 +1,12 @@
 # Anhänger
 
-  1. Stützrad anheben, damit Kupplung unterhalb Platz hat
-  2. Zugfahrzeug an den Anhänger heranfahren, damit Kupplungsklaue über der Anhängerkupplung positioniert ist
-  3. Stützrad absenken, bis die Kupplung einrastet. Die Kupplung ist korrekt eingerastet, wenn die grüne Nocke sichtbar ist!
-  4. Abreisseil immer anhängen
+  1. Stützrad anheben, damit Kupplung unterhalb Platz hat.
+  2. Zugfahrzeug an den Anhänger heranfahren, damit Kupplungsklaue über der Anhängerkupplung positioniert ist.
+  3. Stützrad absenken, bis die Kupplung einrastet. Die Kupplung ist korrekt eingerastet, wenn die grüne Nocke sichtbar ist! ![Eingehängte Kupplung](/images/IMG_3818.JPG)
+  4. Abreisseil immer anhängen.
   5. Elektrische Verbindung herstellen. Überprüfen, ob Bremslichter leuchten.
   6. Stützrad ganz hochklappen.
-  7. Handbremse lösen
+  7. Handbremse lösen nicht vergessen.
   
 *Beachte*
 Der Anhänger hat ein 7-poliger Stecker. Moderne Autos haben einen 13-poligen Stecker. Dann muss ein Adapter verwendet werden.
