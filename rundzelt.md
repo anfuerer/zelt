@@ -34,6 +34,6 @@
   * Spannset um Stangen auf Höhe Gestellträger befestigen
   
   
-  ![Gestell Ansicht 1](/images/IMG_3855.JPG)
-  ![Gestell Ansicht 2](/images/IMG_3856.JPG)
-  ![Gestell Ansicht 3](/images/IMG_3857.JPG)
+![Gestell Ansicht 1](/images/IMG_3855.JPG)
+![Gestell Ansicht 2](/images/IMG_3856.JPG)
+![Gestell Ansicht 3](/images/IMG_3857.JPG)
