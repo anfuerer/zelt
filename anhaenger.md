@@ -8,7 +8,8 @@
   6. Stützrad ganz hochklappen.
   7. Handbremse lösen
   
-  Der Anhänger hat ein 7-poliger Stecker. Moderne Autos haben einen 13-poligen Stecker. Dann muss ein Adapter verwendet werden.
+*Beachte*
+Der Anhänger hat ein 7-poliger Stecker. Moderne Autos haben einen 13-poligen Stecker. Dann muss ein Adapter verwendet werden.
   
   Stecker des Anhängers:
   ![Stecker Anhänger Jubla](/images/IMG_3815.JPG)
