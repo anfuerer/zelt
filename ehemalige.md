@@ -9,6 +9,9 @@
   ![Kreuze spannen](/images/IMG_3824.JPG)
   4. Deckblache einfädeln. Gummibänder sollten nach unten schauen.
   5. Gestell auf einer Seite hochheben. Zwei Personen pro Pfosten. **Wichtig:** Nicht an der äusseren Querstange halten, sonst fällt Gestell auseinander. Aufpassen, dass Hände nicht in Gelenk eingeklemmt werden.
+  <video width="618" height="347" controls preload> 
+    <source src="/images/IMG_3825.MOV" media="only screen and (min-device-width: 568px)"></source>
+</video>
   ![Video: So sollte man nicht hochheben (36MB)](/images/IMG_3825.MOV)
   ![Video: So geht das hochheben richtig (61MB)](/images/IMG_3826.MOV)
   ![Video: So haut Keule den Bolzen rein (81MB)](/images/IMG_3861.MOV)
