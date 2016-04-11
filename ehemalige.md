@@ -9,19 +9,16 @@
   ![Kreuze spannen](/images/IMG_3824.JPG)
   4. Deckblache einfädeln. Gummibänder sollten nach unten schauen.
   5. Gestell auf einer Seite hochheben. Zwei Personen pro Pfosten. **Wichtig:** Nicht an der äusseren Querstange halten, sonst fällt Gestell auseinander. Aufpassen, dass Hände nicht in Gelenk eingeklemmt werden.
-  <video width="618" height="347" controls preload> 
-    <source src="/images/IMG_3825.MOV" media="only screen and (min-device-width: 568px)"></source>
-</video>
-  ![Video: So sollte man nicht hochheben (36MB)](/images/IMG_3825.MOV)
-  ![Video: So geht das hochheben richtig (61MB)](/images/IMG_3826.MOV)
-  ![Video: So haut Keule den Bolzen rein (81MB)](/images/IMG_3861.MOV)
+  ![Video: So sollte man nicht hochheben](/video01.html)
+  ![Video: So geht das hochheben richtig](/video02.html)
+  ![Video: So haut Keule den Bolzen rein](/video03.html)
   6. Bolzen bei den Pfosten reinstecken und mit Splint sichern. Schauen, dass der Pfosten schön parallel zum Profil ist, dann geht der Bolzen auch ohne Würgen rein. **Wichtig:** Darauf achten, dass Bolzen an den Aussenseite von *aussen nach innen* gesetzt werden. Ansonsten kratzt der Splint an der Zeltblache und macht diese kaputt.
   ![Splint an Aussenseite](/images/IMG_3828.JPG)
   7. Gestell auf anderen Seite hochheben.
   8. Mittelpfosten an den Stirnen montieren. Darauf achten, dass die ausgenommene Seite des Pfosten auf der Aussenseite ist. Ansonsten wirds mit dem Einfädeln der Aussenblache etwas schwierig.
   ![Ausgenommene Seite an Aussenseite](/images/IMG_3833.JPG)
   9. Bolzen der Mittelstangen montieren. **Wichtig:** Dieser Bolzen immer montieren, damit der Pfosten nicht umfällt.
-  ![Sportliche Variante der Montage (59MB)](/images/IMG_3836.MOV)
+  ![Sportliche Variante der Montage](/video04.html)
   Alternative: Montage mit Felix (= die Leiter)
   10. Die Querstreben bei den Pfosten befestigen. **Wichtig:** Die Sterngriffe nur leicht anstellen (d.h. nicht fest anziehen!!)
   11. Seitenblachen montieren. Von der Mitte her an der Aussenseite des Pfostens einfädeln, Blache nach oben ziehen und Stange oben einhängen. Danach Blache nach unten einfädeln. ![Seitenblachen](/images/IMG_3838.JPG)
