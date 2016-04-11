@@ -1,8 +1,3 @@
----
-title: Rundzelt
-layout: post
----
-
 # Rundzelt Jubla
 
 ## Aufbau

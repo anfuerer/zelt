@@ -1,8 +1,3 @@
----
-title: Ehemaligen Zelt
-layout: post
----
-
 # Ehemaligen Zelt
 
 ## Aufbau

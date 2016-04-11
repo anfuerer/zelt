@@ -1,8 +1,3 @@
----
-title: Anhänger
-layout: post
----
-
 # Anhänger
 
   1. Stützrad anheben, damit Kupplung unterhalb Platz hat.
